@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Autonomous Brainy 1 x RTX 4090s",
+    "description": "Run AI models up to 70B parameters right from your desk with RTX 4090 supercomputing. Scale from 2 to 8 GPUs, reaching 1.32 petaflops at FP32 precision.",
+    "color": "1 x RTX 4090s - Default",
+    "sku": "7408_4",
+    "mpn": "7408_4",
+    "image": "https://cdn.autonomous.ai/production/ecm/250520/1c_1(1).webp",
+    "price": 5000,
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.autonomous.ai/robots/brainy?option_code=AnonAI-AnonAI_Color.onecard,Option.Default"
+  },
+  {
+    "name": "Autonomous Brainy 2 x RTX 4090s ",
+    "description": "Run AI models up to 70B parameters right from your desk with RTX 4090 supercomputing. Scale from 2 to 8 GPUs, reaching 1.32 petaflops at FP32 precision.",
+    "color": "2 x RTX 4090s  - Default",
+    "sku": "7408_0",
+    "mpn": "7408_0",
+    "image": "https://cdn.autonomous.ai/production/ecm/250314/core-1.webp",
+    "price": 9000,
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.autonomous.ai/robots/brainy?option_code=AnonAI-AnonAI_Color.Core,Option.Default"
+  },
+  {
+    "name": "Autonomous Brainy 4 x RTX 4090s",
+    "description": "Run AI models up to 70B parameters right from your desk with RTX 4090 supercomputing. Scale from 2 to 8 GPUs, reaching 1.32 petaflops at FP32 precision.",
+    "color": "4 x RTX 4090s - Default",
+    "sku": "7408_1",
+    "mpn": "7408_1",
+    "image": "https://cdn.autonomous.ai/production/ecm/250618/pro_1(1).webp",
+    "price": 19000,
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.autonomous.ai/robots/brainy?option_code=AnonAI-AnonAI_Color.Pro,Option.Default"
+  },
+  {
+    "name": "Autonomous Brainy 6 x RTX 4090s ",
+    "description": "Run AI models up to 70B parameters right from your desk with RTX 4090 supercomputing. Scale from 2 to 8 GPUs, reaching 1.32 petaflops at FP32 precision.",
+    "color": "6 x RTX 4090s  - Default",
+    "sku": "7408_2",
+    "mpn": "7408_2",
+    "image": "https://cdn.autonomous.ai/production/ecm/250618/promax_1(1).webp",
+    "price": 25000,
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.autonomous.ai/robots/brainy?option_code=AnonAI-AnonAI_Color.Max,Option.Default"
+  },
+  {
+    "name": "Autonomous Brainy 8 x RTX 4090s  ",
+    "description": "Run AI models up to 70B parameters right from your desk with RTX 4090 supercomputing. Scale from 2 to 8 GPUs, reaching 1.32 petaflops at FP32 precision.",
+    "color": "8 x RTX 4090s   - Default",
+    "sku": "7408_3",
+    "mpn": "7408_3",
+    "image": "https://cdn.autonomous.ai/production/ecm/250618/ultra_1(1).webp",
+    "price": 32000,
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.autonomous.ai/robots/brainy?option_code=AnonAI-AnonAI_Color.Ultra,Option.Default"
+  }
+]

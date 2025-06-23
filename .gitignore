@@ -1,0 +1,17 @@
+# Python virtual environment
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Credentials and secrets
+ggsheetapikey.json
+
+# Data files
+Company list.xlsx
+company_data/
+
+# System files
+.DS_Store
+Thumbs.db 
