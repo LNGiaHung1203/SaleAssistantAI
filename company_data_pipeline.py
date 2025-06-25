@@ -22,8 +22,8 @@ LINKEDIN_POSTS_COL = 'linkedin_posts'
 PROFILE_HTML_COL = 'profile_html_file'
 LINKEDIN_POSTS_FILE_COL = 'linkedin_posts_file'
 BRAVE_PATH = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'  # Update if needed
-LINKEDIN_USERNAME = 'edwardwateryhung@gmail.com'  # <-- Put your LinkedIn email here
-LINKEDIN_PASSWORD = 'giahung1232003'           # <-- Put your LinkedIn password here
+LINKEDIN_USERNAME = 'abc@gmail.com'  # <-- Put your LinkedIn email here
+LINKEDIN_PASSWORD = '123'           # <-- Put your LinkedIn password here
 DATA_DIR = 'company_data'
 
 # === AUTHENTICATE ===
