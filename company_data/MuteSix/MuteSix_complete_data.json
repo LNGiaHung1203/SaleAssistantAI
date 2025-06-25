@@ -1,0 +1,23 @@
+{
+  "company_name": "MuteSix",
+  "linkedin_url": "https://www.linkedin.com/company/mutesix",
+  "hiring_status": {
+    "is_hiring": "No open positions",
+    "num_jobs": 0,
+    "jobs_url": "https://www.linkedin.com/company/mutesix/jobs/",
+    "source": "jobs_redirect",
+    "detected_text": null,
+    "keyword_count": null,
+    "job_links": []
+  },
+  "posts": {
+    "total_posts": 0,
+    "posts_list": [],
+    "posts_file": null
+  },
+  "metadata": {
+    "timestamp": "2025-06-25T14:30:26.059453",
+    "processing_date": "2025-06-25",
+    "processing_time": "14:30:26"
+  }
+}

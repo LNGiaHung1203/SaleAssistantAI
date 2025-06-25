@@ -1,0 +1,134 @@
+{
+  "company_name": "am.jll.com",
+  "linkedin_url": "https://www.linkedin.com/company/jll",
+  "hiring_status": {
+    "is_hiring": "Yes (job keywords found)",
+    "num_jobs": 0,
+    "jobs_url": "https://www.linkedin.com/company/jll/jobs/",
+    "source": "jobs_page_keywords",
+    "detected_text": null,
+    "keyword_count": 359,
+    "job_links": []
+  },
+  "posts": {
+    "total_posts": 10,
+    "posts_list": [
+      {
+        "index": 1,
+        "text": "Get our AI insights delivered to your inbox every month. \n\nSubscribe to our newsletter and learn how AI can help create workplace efficiencies and power better real estate decisions.\n\n🗞️",
+        "length": 186,
+        "timestamp": "2025-06-25T13:20:26.842821",
+        "post_date": "12h",
+        "reactions_count": 27,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 2,
+        "text": "According to JLL’s Global Occupancy Planning Benchmark Report 2025, the global office utilization rate has climbed to 54%, up from 49% in 2024 — with utilization targets increasing from 74% in 2024 to 79% in 2025. Improvements are notable across the globe:\n\n🌎 Latin America: +9%\n🌍 EMEA: +8%\n🌎 North America: +4%\n🌏 APAC: +4%\n\nAs companies balance flexibility with the need to foster vibrant, purposeful office environments, these figures reflect a renewed focus on making the office a destination, not an obligation.\n\nDiscover more in the full report: https://co.jll/4kbEEfb\n\n#Workplace #CRE #OfficeTrends",
+        "length": 604,
+        "timestamp": "2025-06-25T13:20:27.073873",
+        "post_date": "15h Edited",
+        "reactions_count": 169,
+        "comments_count": 1,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 3,
+        "text": "Did you know an uncoordinated approach to managing real estate leases can result in missed critical dates, inaccurate lease data, late rent payments, and costly overpayments?\n\nThe solution? A proactive, analytics-driven lease administration strategy that pays-off.\n\nJLL’s proactive financial management process takes your current rent charges into account, conducts desk top audits of landlord operating expenses, and schedules financial reviews to report monthly variances. Our budgeting and forecasting support helps you save money and avoid costly mistakes.\n\nReady to take control of your real estate portfolio and maximize savings? \n\nClick here to learn more:",
+        "length": 663,
+        "timestamp": "2025-06-25T13:20:27.284575",
+        "post_date": "1d",
+        "reactions_count": 81,
+        "comments_count": 3,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 4,
+        "text": "We're proud to be recognized with Ethisphere 's Compliance Leader Verification. Ethics is at the heart of our culture, underpinning every part of our business and helping us achieve our purpose of shaping the future of real estate for a better world.\n\nLearn more > https://co.jll/4lgtE0O",
+        "length": 287,
+        "timestamp": "2025-06-25T13:20:27.522224",
+        "post_date": "1d Edited",
+        "reactions_count": 125,
+        "comments_count": 7,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 5,
+        "text": "The integration of AI and real estate offers a powerful opportunity to align operational wins with ambitious growth goals.\n\nThe time to act is now.",
+        "length": 147,
+        "timestamp": "2025-06-25T13:20:27.571793",
+        "post_date": "4d",
+        "reactions_count": 71,
+        "comments_count": 2,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 6,
+        "text": "Are you ready to make a big change with your office space? \n\nIn our client story, Indianapolis-based insurance firm Gregory & Appel discusses how they were able to turn an unexpected move with a tight timeline into a destination where people want to work, including:\n→ A prime location in historic Center Township, Indianapolis\n→ Onsite parking\n→ Accessibility for commuters from all four directions of the city\n→ An adaptive reuse building with history and character\n→ A vibrant space that allows for flexibility and collaboration and reflected its culture\n\nExplore how JLL helped Gregory & Appel achieve these goals all without disrupting business operations → https://co.jll/4kgcVL2\n\n#Office #Workplace",
+        "length": 705,
+        "timestamp": "2025-06-25T13:20:27.722255",
+        "post_date": "4d",
+        "reactions_count": 92,
+        "comments_count": 4,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 7,
+        "text": "From collaborative workspaces overlooking Sydney Harbor to meaningful connections with colleagues, Josh Whiley discovered what belonging truly means at JLL.\n\nJoshua 's JLL experience began with recruitment conversations rooted in respect and inclusion. Four months later, he's shaping exceptional workplace experiences where everyone feels valued, accepted, and respected. \n\nBelong with us. Explore open opportunities.",
+        "length": 418,
+        "timestamp": "2025-06-25T13:20:28.018990",
+        "post_date": "5d Edited",
+        "reactions_count": 96,
+        "comments_count": 2,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 8,
+        "text": "The largest living markets will require an additional 21.8M urban homes within the next decade. Investors will continue to expand overall supply but will need to navigate challenges of high construction costs and regulation. Explore our research:",
+        "length": 246,
+        "timestamp": "2025-06-25T13:20:28.263946",
+        "post_date": "5d Edited",
+        "reactions_count": 82,
+        "comments_count": 3,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 9,
+        "text": "In today's fierce competition for top talent, organizations are discovering that well-designed workspaces are no longer just a nice-to-have – they're a strategic imperative. \n\nFrom building a foundation with the right mix of spaces to support the needs of your workforce to balancing aesthetics with functionality, understanding the needs of employees and future talent should be central to designing an exceptional workplace experience. \n\nGet our expert insights in our latest guide 👉",
+        "length": 485,
+        "timestamp": "2025-06-25T13:20:28.380253",
+        "post_date": "6d",
+        "reactions_count": 92,
+        "comments_count": 2,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 10,
+        "text": "🔑 Transitioning to using AI strategically in CRE isn't as easy as the ABCs. \n\nOrganizations need more than just a new technology — they need a partner to help shape AI processes that are helpful, responsible and future-ready.  \n\nGet implementation right from the start with JLL’s AI adoption team. JLL Consulting pros excel at optimizing and transforming your real estate operations with AI. \n\n🔗 Learn more:",
+        "length": 407,
+        "timestamp": "2025-06-25T13:20:28.515139",
+        "post_date": "6d",
+        "reactions_count": 61,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      }
+    ],
+    "posts_file": "company_data\\am.jll.com\\am.jll.com_posts.txt"
+  },
+  "metadata": {
+    "timestamp": "2025-06-25T13:20:37.010634",
+    "processing_date": "2025-06-25",
+    "processing_time": "13:20:37"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "company_name": "WillowTree",
+  "linkedin_url": "https://www.linkedin.com/company/willowtree",
+  "hiring_status": {
+    "is_hiring": "Yes",
+    "num_jobs": 100,
+    "jobs_url": "https://www.linkedin.com/company/willowtree/jobs/",
+    "source": "jobs_page",
+    "detected_text": "$100,000.00 - $160,000.00",
+    "keyword_count": null,
+    "job_links": []
+  },
+  "posts": {
+    "total_posts": 10,
+    "posts_list": [
+      {
+        "index": 1,
+        "text": "Is your loyalty program a strategic asset or a budget drain? 🤔\n \nDigital Marketing Manager Jose Luis Rodriguez identifies six 🚩red flags 🚩that signal it's time to refresh your customer loyalty strategy. Key topics include:\n \n✅Why even successful programs need regular reassessment\n✅The power of emotional connection in driving long-term value\n✅How personalization has become table stakes in 2025\n✅The ROI of strategic partnerships in loyalty program optimization\n \nDon't let your loyalty program stagnate. Learn how leading brands are turning these challenges into opportunities for innovation and growth.\n \nRead the full article here: https://lnkd.in/g9aduCRR\n \n#CustomerLoyalty #DigitalStrategy #LoyaltyProgram #MarTech",
+        "length": 721,
+        "timestamp": "2025-06-25T13:22:41.242611",
+        "post_date": "1d",
+        "reactions_count": 30,
+        "comments_count": 1,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 2,
+        "text": "Unplanned hospital readmissions cost the U.S. healthcare system billions annually. A change is needed, and our two-week Agentic AI Accelerator (https://lnkd.in/eg5QZ5EQ) is custom-built to provide actionable next steps for industry and enterprise problems like this.\n\nSee exactly how as TELUS Digital's team of experts evaluate these monumental, post-discharge patient care challenges and prototype an innovative AI-powered healthcare companion 🤖💙 that merges patient needs with healthcare provider goals.\n\nDirector of Brand & Content Strategy Adam Nemett provides a patient/caregiver perspective with a first-hand account of navigating emergency healthcare and then shares the five phases of prototyping an AI-driven solution (as documented in the latest season of our docuseries, \"2 Weeks To Better\"):\n\n1️⃣ Identifying High-ROI Opportunities (AI Use Case Workshop)\n2️⃣ Validating the Business Case (Research & Strategy)\n3️⃣ Leveraging Our AI Accelerator Framework (Technical Architecture)\n4️⃣ Embracing Human-Centered AI Design (UX Design Prototype)\n5️⃣ Proving the Concept (Solution Validation)\n\nThe result? A dynamic solution with a clear path forward ✅, vetted by industry experts, including UVA's Matthew Trowbridge, MD, MPH (Emergency Medicine) and Prof. Reza Mousavi (Commerce).\n\n🚀 Want to see how we're leveraging agentic AI and creating aligned incentives between patients, care teams, and payers? 🤝 Check out how we went from workshop to reality in just two weeks.\n\n👉 👉 👉 https://lnkd.in/gKCVcDuJ\n\n#HealthcareInnovation #AgenticAI #PatientCare #DigitalHealth",
+        "length": 1569,
+        "timestamp": "2025-06-25T13:22:41.302078",
+        "post_date": "6d",
+        "reactions_count": 31,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 3,
+        "text": "💸 Investing in best-in-class MarTech tools but still not seeing the ROI? You're not alone. Despite impressive tech stacks, many Fortune 500 companies struggle to translate their CDP investments into tangible business results.\n\nWillowTree Growth Marketing Engineer George Sun (https://lnkd.in/gBkCT2zf) breaks down the 10 essential elements that make the difference between a powerful MarTech ecosystem and an expensive collection of underutilized tools.\n\nDiscover:\n📊 Why vendor support isn't enough for successful implementation\n⚠️ How to avoid the quick-win trap that leads to costly complications\n🎯 The critical role of data ownership and governance\n🔑 Practical strategies for sustainable, long-term success\n\nTransform your MarTech stack from a source of frustration into a driver of business value with this quick read: https://lnkd.in/gHq2fxeG \n\n#MarTech #CustomerDataPlatform #CDP #DigitalTransformation #Adobe",
+        "length": 915,
+        "timestamp": "2025-06-25T13:22:41.362176",
+        "post_date": "1w",
+        "reactions_count": 22,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 4,
+        "text": "🚨 Marketing leaders, are you throwing money away on unengaged email subscribers?\n \nEvery disengaged contact in your email list isn't just a missed opportunity — it's actively draining your marketing budget by:\n \n❌ Paying for undelivered emails\n❌ Skewing your engagement metrics\n❌ Risking your sender reputation\n❌ Wasting resources on uninterested leads\n \nIn a new article, WillowTree Digital Marketing Manager Meredith Morrow reveals how smart email list suppression strategies can immediately cut your email marketing costs while boosting performance.\n \nLearn to:\n✅ Identify truly disengaged subscribers\n✅ Implement cost-effective suppression tactics\n✅ Improve deliverability and engagement rates\n✅ Convince your CFO that a smaller list means bigger ROI\n \nDon't let another dollar go to waste. Check out this quick read and start optimizing your email spend today!\n \n👉 https://lnkd.in/gmKqQ6N8\n \n#EmailMarketingROI #CostOptimization #MarketingEfficiency #EmailSuppressionList #SunsetStrategy",
+        "length": 992,
+        "timestamp": "2025-06-25T13:22:41.513471",
+        "post_date": "1w Edited",
+        "reactions_count": 19,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 5,
+        "text": "As #WWDC25 wraps up today, you've probably seen enough hot takes to last until next year's keynote. Now that the dust is settling, it's time for something more practical: a strategic analysis of what announcements from both WWDC and Google I/O 2025 actually mean for your business.\n\nWe've evaluated the news from Apple and Google and identified 4 key platform shifts that will impact how you build and maintain digital products:\n\n🎨 Design System Evolution\n🧠 On-Device AI Integration\n🔗 Enhanced System Integration\n📱 Multi-Modal Strategy\n\nBest of all? Our experts Andrew Carter and Derek Brameyer have mapped out specific ways these changes can reduce development costs and future-proof your mobile strategy.\n\nSkip the hype. Get actionable insights on how to leverage these platform evolutions to your advantage.\n\n👉 👉 👉 https://lnkd.in/g2EVG7ip\n\n#GoogleIO #DigitalStrategy #ProductDevelopment #Apple #Google",
+        "length": 905,
+        "timestamp": "2025-06-25T13:22:41.596968",
+        "post_date": "1w",
+        "reactions_count": 56,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 6,
+        "text": "How can a global credit reporting agency process up to 25,000 farms for agricultural loans per day without setting foot on the ground? With AI-powered satellite analytics: https://lnkd.in/gxj7WEKR\n \nUsing machine learning to analyze satellite images 🛰️ we partnered with the agency to develop an AI-powered crop monitoring solution that:\n\n• Detects and classifies crop types 🌽🌾🫛\n• Monitors growth cycles and events ☀️🌱🚜\n• Predicts yields faster and more accurately 🧑🌾\n \nThe result: Agricultural loans become more accessible for farmers and more secure for lenders as AI strips time and cost from the credit assessment process.\n \n“This shows how AI makes traditional financial services faster, more accurate, and more inclusive,” says Kate Pyle Gallaher, Partner & SVP of Financial Services here at WillowTree. \"It's not just about adopting new technology—it's about reimagining entire systems to create value for both businesses and customers.\"\n \nReady to transform your financial services ops with AI? Let's talk.\n \n#FinancialServices #AI #Innovation #AgTech #DigitalTransformation #MachineLearning",
+        "length": 1099,
+        "timestamp": "2025-06-25T13:22:41.749145",
+        "post_date": "1w Edited",
+        "reactions_count": 75,
+        "comments_count": 2,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 7,
+        "text": "🏥 Shocking stat: Unplanned hospital readmissions cost the U.S. healthcare system $15-20B annually. At the UVA School of Data Science, we just unveiled our AI solution that could move the needle on this crisis. Watch how we're revolutionizing post-discharge care: \n\nIn the Season 2 finale of , we present our innovative AI Healthcare Assistant to an expert panel at UVA, including  (Emergency Medicine) and Prof.  (Commerce).\n\nThe problem is clear:\n• 20% of Medicare patients readmitted within 30 days\n• 92% of patients searching for post-discharge info\n• 70% relying on \"Dr. Google\" instead of personalized or verified sources\n\nOur solution? An AI-powered companion that combines:\n✅ In-room transcripts with AI note-taking\n✅ Personalized conversational AI assistant\n✅ Doctor-curated information access 24/7\n\nAs Dr. Trowbridge noted, \"We could have much better utilization of our existing resources, which includes doctors' attention, time, nursing, even just the physical space of emergency departments. Everything could run a lot better.\"\n\nThis project showcases our Agentic AI Accelerator methodology in action — from workshop to working prototype in just two weeks: \n\n🎬 Watch the full episode to see how we're transforming healthcare through responsible AI innovation:",
+        "length": 1271,
+        "timestamp": "2025-06-25T13:22:41.795894",
+        "post_date": "1w",
+        "reactions_count": 47,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 8,
+        "text": "🏥 Shocking stat: Unplanned hospital readmissions cost the U.S. healthcare system $15-20B annually. At the UVA School of Data Science, we just unveiled our AI solution that could move the needle on this crisis. Watch how we're revolutionizing post-discharge care: https://lnkd.in/ev2a9BNV\n\nIn the Season 2 finale of #2WeeksToBetter, we present our innovative AI Healthcare Assistant to an expert panel at UVA, including Matthew Trowbridge, MD, MPH (Emergency Medicine) and Prof. Reza Mousavi (Commerce).\n\nThe problem is clear:\n• 20% of Medicare patients readmitted within 30 days\n• 92% of patients searching for post-discharge info\n• 70% relying on \"Dr. Google\" instead of personalized or verified sources\n\nOur solution? An AI-powered companion that combines:\n✅ In-room transcripts with AI note-taking\n✅ Personalized conversational AI assistant\n✅ Doctor-curated information access 24/7\n\nAs Dr. Trowbridge noted, \"We could have much better utilization of our existing resources, which includes doctors' attention, time, nursing, even just the physical space of emergency departments. Everything could run a lot better.\"\n\nThis project showcases our Agentic AI Accelerator methodology in action — from workshop to working prototype in just two weeks: https://lnkd.in/eg5QZ5EQ\n\n🎬 Watch the full episode to see how we're transforming healthcare through responsible AI innovation: https://lnkd.in/ev2a9BNV\n\n#HealthcareInnovation #AI #DigitalHealth #PatientCare #AgenticAI",
+        "length": 1464,
+        "timestamp": "2025-06-25T13:22:41.876715",
+        "post_date": "2w",
+        "reactions_count": 28,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 9,
+        "text": "Struggling with Flutter integration testing limitations? 😤 Patrol is your solution for seamless native view testing.\n \nAnthony Dade, Platform Software Test Engineer with WillowTree, a TELUS Digital Company, dives deep into his hands-on experience with Patrol and how he uses it to overcome Flutter's built-in testing constraints.\n \nKey Patrol advantages include:\n🗝️ Comprehensive native UI component testing\n🗝️ Hot Restart capability for faster development\n🗝️ Enhanced widget interaction features\n \nAs AI-generated code becomes more integrated into product development, the need for reliable, dynamic testing becomes crucial. Learn how Patrol can accelerate your Flutter development while maintaining confidence in your app's quality. \n \nhttps://lnkd.in/gJkGhPDn \n \n#FlutterDev #MobileAppDevelopment #SoftwareTesting #PatrolIntegrationTesting",
+        "length": 842,
+        "timestamp": "2025-06-25T13:22:41.950906",
+        "post_date": "3w",
+        "reactions_count": 18,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 10,
+        "text": "🎙️ WillowTree's Chief Data and AI Officer GT Tandon recently joined Daily Tech News Show to break down how AI model training and inference costs have dramatically decreased, making enterprise AI more accessible than ever.\n\nKey insights from GT's discussion: \n• Training costs have dropped ~10x in just two years (from $4/token to $0.40/token) \n• Open-source models and weights are democratizing enterprise AI development \n• Companies can now create bespoke AI solutions by combining corporate data with pre-trained models \n• New AI-specific chip designs are accelerating training efficiency\n\nAt WillowTree, a TELUS Digital Company, we're seeing enterprises leverage these recent advances and cost decreases to create powerful, custom AI solutions that drive real business value. \n\nGT's expertise highlights how the barriers to enterprise AI adoption are lower than ever — it's not just about using pre-made models anymore, but creating affordable and tailored solutions for specific business needs: https://lnkd.in/eg5QZ5EQ\n\nListen to the full discussion to learn how your organization can take advantage of these developments: https://lnkd.in/eJzkDnaV\n\nThoughts on the democratization of AI? Let's connect and discuss! 🤝\n\n#EnterpriseAI #DigitalTransformation #ArtificialIntelligence #Innovation #DataScience",
+        "length": 1308,
+        "timestamp": "2025-06-25T13:22:42.030750",
+        "post_date": "3w",
+        "reactions_count": 23,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      }
+    ],
+    "posts_file": "company_data\\WillowTree\\WillowTree_posts.txt"
+  },
+  "metadata": {
+    "timestamp": "2025-06-25T13:22:47.742701",
+    "processing_date": "2025-06-25",
+    "processing_time": "13:22:47"
+  }
+}

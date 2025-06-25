@@ -1,0 +1,46 @@
+{
+  "company_name": "Tech Serv Consulting and Training",
+  "linkedin_url": "https://www.linkedin.com/company/techserv-engineering",
+  "hiring_status": {
+    "is_hiring": "Yes (job keywords found)",
+    "num_jobs": 0,
+    "jobs_url": "https://www.linkedin.com/company/techserv-engineering/jobs/",
+    "source": "jobs_page_keywords",
+    "detected_text": null,
+    "keyword_count": 322,
+    "job_links": []
+  },
+  "posts": {
+    "total_posts": 2,
+    "posts_list": [
+      {
+        "index": 1,
+        "text": "We're #hiring a new Storm- Damage Assessor - Texas in Tennessee. Apply today or share this post with your network.",
+        "length": 114,
+        "timestamp": "2025-06-25T13:21:18.776613",
+        "post_date": "",
+        "reactions_count": 3,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 2,
+        "text": "Wishing all the incredible moms a day filled with love, laughter, and the appreciation you so deeply deserve. Happy Mother's Day!",
+        "length": 129,
+        "timestamp": "2025-06-25T13:21:18.845282",
+        "post_date": "1mo",
+        "reactions_count": 0,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      }
+    ],
+    "posts_file": "company_data\\Tech_Serv_Consulting_and_Training\\Tech_Serv_Consulting_and_Training_posts.txt"
+  },
+  "metadata": {
+    "timestamp": "2025-06-25T13:21:25.983345",
+    "processing_date": "2025-06-25",
+    "processing_time": "13:21:25"
+  }
+}

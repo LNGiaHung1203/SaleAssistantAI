@@ -1,0 +1,134 @@
+{
+  "company_name": "Applied Intuition",
+  "linkedin_url": "https://www.linkedin.com/company/applied-intuition-inc",
+  "hiring_status": {
+    "is_hiring": "Yes",
+    "num_jobs": 153,
+    "jobs_url": "https://www.linkedin.com/company/applied-intuition-inc/jobs/",
+    "source": "jobs_page",
+    "detected_text": "$153,000.00 - $222,000.00",
+    "keyword_count": null,
+    "job_links": []
+  },
+  "posts": {
+    "total_posts": 10,
+    "posts_list": [
+      {
+        "index": 1,
+        "text": "We've closed our Series F round of fundraising at a $15B valuation!\n\nOur goal: To bring vehicle intelligence to every moving machine on the planet.\n\nThank you to all of our investors in this round co-led by  and .  Other new investors include: , , , , , , , . Return backers include , , , , , , and .\n\nLearn more about our vision and road ahead:",
+        "length": 345,
+        "timestamp": "2025-06-25T13:16:55.288427",
+        "post_date": "1w Edited",
+        "reactions_count": 0,
+        "comments_count": 99,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 2,
+        "text": "“These autonomous systems will be significantly safer than human drivers – and provably so.” - Peter Ludwig\n\nOn the most recent episode of the No Priors podcast, , , and  discussed the future of autonomy, Applied Intuition’s recent fundraising round and vision for vehicle intelligence, and more. \n\nSome key takeaways:\n🔑 We've only scratched the surface for how urban design will change due to autonomy, both in vehicles and in software  \n🔑 As autonomous vehicles make transportation more convenient and productive, people will likely drive more miles, not fewer - transforming mobility like how free mobile communication expanded communication\n🔑 Companies like the Chinese manufacturers, unburdened by legacy platforms and past constraints, gain a significant innovation edge and can move at remarkable speed\n\nWatch the full episode here:",
+        "length": 839,
+        "timestamp": "2025-06-25T13:16:55.560342",
+        "post_date": "4d",
+        "reactions_count": 204,
+        "comments_count": 1,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 3,
+        "text": "Qasar Younis spoke to Caroline Hyde and Ed Ludlow on Bloomberg Television highlighting our Series F round, how Applied Intuition is bringing vehicle intelligence to every moving machine, and the future of AI-powered mobility.\n\nWatch the full segment here: \n\nAnd catch the full  article:",
+        "length": 286,
+        "timestamp": "2025-06-25T13:16:55.659586",
+        "post_date": "6d",
+        "reactions_count": 396,
+        "comments_count": 3,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 4,
+        "text": "Spotted in Times Square! 👀\n\nWe just announced our Series F on Nasdaq Tower. The road ahead is inspiring — and we’re hiring top talent to help drive the future of vehicle intelligence. Join us: https://lnkd.in/gp2sb9hU\n\n#nasdaq #seriesf #announcement",
+        "length": 249,
+        "timestamp": "2025-06-25T13:16:55.844170",
+        "post_date": "1w",
+        "reactions_count": 723,
+        "comments_count": 9,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 5,
+        "text": "Applied Intuition was honored to be part of the US Army's 250th anniversary celebration this past weekend 🇺🇸\n\nThanks Erin O'Brien Tectonic for this deep dive into our autonomous ISV project: https://lnkd.in/eWZk4RPf \n\n#defensetech #autonomy #USArmy",
+        "length": 248,
+        "timestamp": "2025-06-25T13:16:56.101489",
+        "post_date": "1w",
+        "reactions_count": 201,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 6,
+        "text": "Boots are on the ground at Music City Center and we’re ready for CVPR 2025! 🤠 🎸  We’ll be at booth #1423 for the next three days, so please swing by and come meet the Applied Intuition team — we’re actively hiring for ML and computer vision!\n\n#CVPR #machinelearning #computervision",
+        "length": 281,
+        "timestamp": "2025-06-25T13:16:56.209804",
+        "post_date": "1w",
+        "reactions_count": 152,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 7,
+        "text": "“Autonomy will definitely happen. There’s no doubt… Safety, convenience, and cost are the drivers of consumer purchases and it hits all three.”\n\nApplied Intuition CEO  joined ’s podcast to talk about:\n💡 Why “love is presence” — and how a public calendar and time allocation focused on being on the ground signals leadership accessibility \n💡 Why our managers don’t just manage — they’re the best ICs on their teams \n💡 How the evolving autonomy ecosystem is attracting talent looking for sustainable, meaningful work\n\nAnd so much more. Watch the full podcast here:",
+        "length": 562,
+        "timestamp": "2025-06-25T13:16:56.291254",
+        "post_date": "1w",
+        "reactions_count": 268,
+        "comments_count": 2,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 8,
+        "text": "The UK’s Strategic Defence Review makes one thing clear: Autonomy will be fundamental to the UK’s ability to meet future threats. \n\nAdvantage will come from out-innovating — not outspending — and Applied Intuition is ready to accelerate the development, testing, and deployment of autonomous systems for the British military across all domains. 🇬🇧 \n\nRead how we’re helping deliver the future of UK defence innovation: https://lnkd.in/gMu7UHR5 \n\n#UKdefence #innovation #StrategicDefenceReview",
+        "length": 491,
+        "timestamp": "2025-06-25T13:16:56.725424",
+        "post_date": "1w",
+        "reactions_count": 157,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 9,
+        "text": "Applied Intuition is collaborating with OpenAI to advance next-generation, AI-powered experiences in vehicles worldwide.\n\nAI shouldn’t live just on your phone or computer — it belongs in the physical world, too. OpenAI is supporting Applied Intuition’s work to bring vehicle intelligence to life with LLM-powered voice assistants, smart in-vehicle agents, and seamless connectivity between vehicles and devices.\n\nLearn more about this collaboration: https://lnkd.in/dTP3rJg8\n\n#AI #vehicleintelligence #OpenAI",
+        "length": 508,
+        "timestamp": "2025-06-25T13:16:56.955351",
+        "post_date": "2w",
+        "reactions_count": 835,
+        "comments_count": 12,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 10,
+        "text": "10 days. 1 vehicle. Fully autonomous. 🇺🇸 \n\nUS Army Secretary Dan Driscoll and Chief of Staff GEN Randy George visited the  headquarters in Mountain View with a challenge: bring our commercial technologies to the Army fast. We got to work. \n\nWatch our video to see how we're bringing vehicle intelligence to the battlefield:   \n\nAnd read our blog to learn more:",
+        "length": 360,
+        "timestamp": "2025-06-25T13:16:57.122886",
+        "post_date": "2w Edited",
+        "reactions_count": 445,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      }
+    ],
+    "posts_file": "company_data\\Applied_Intuition\\Applied_Intuition_posts.txt"
+  },
+  "metadata": {
+    "timestamp": "2025-06-25T13:17:04.779889",
+    "processing_date": "2025-06-25",
+    "processing_time": "13:17:04"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "company_name": "Starkey Hearing",
+  "linkedin_url": "https://www.linkedin.com/company/starkey-hearing",
+  "hiring_status": {
+    "is_hiring": "Yes",
+    "num_jobs": 60,
+    "jobs_url": "https://www.linkedin.com/company/starkey-hearing/jobs/",
+    "source": "jobs_page",
+    "detected_text": "$60,830.00 - $84,000.00",
+    "keyword_count": null,
+    "job_links": []
+  },
+  "posts": {
+    "total_posts": 10,
+    "posts_list": [
+      {
+        "index": 1,
+        "text": "New wireless accessories are available today! \n \nOur all-new StarLink Edge Table Microphone and Remote Microphone make streaming to Edge AI hearing aids easier and more robust than ever, bringing better hearing down to a science in even the most challenging listening environments. We’ve also pushed Edge AI’s performance even further to offer powerful performance and effortless connectivity. With its Auracast enabled radio and industry-only integrated neural processing unit (NPU), every patient can benefit from Edge AI.",
+        "length": 524,
+        "timestamp": "2025-06-25T13:15:17.997773",
+        "post_date": "2mo",
+        "reactions_count": 96,
+        "comments_count": 4,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 2,
+        "text": "3 devices you must check out that will enhance & transform your listening & hearing experience! \nThank You Starkey Hearing!!",
+        "length": 124,
+        "timestamp": "2025-06-25T13:15:18.059855",
+        "post_date": "11h",
+        "reactions_count": 21,
+        "comments_count": 2,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 3,
+        "text": "The #StarkeyFamily was honored to support Hearing Loss Association of America (HLAA)'s #Walk4Hearing Twin Cities this weekend. This year’s event raised $23,340.05 to fund hearing health, support, and connection for people in our community whose lives have been impacted by hearing loss. Starkey was the top fundraising team. \n\nHearing Loss Association of America - Twin Cities (HLAA-TC)\n#StarkeyCares #HearingLossAwareness",
+        "length": 422,
+        "timestamp": "2025-06-25T13:15:18.125317",
+        "post_date": "1d",
+        "reactions_count": 37,
+        "comments_count": 1,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 4,
+        "text": "Today’s hearing aids do more than amplify sound, they’re helping people stay active, remain connected with family and friends, and live healthier lives.\n\nIf you’re curious about how emerging technologies are transforming hearing healthcare and patient outcomes, check out Starkey President and CEO Brandon Sawalich's recent AudiologyOnline article, co-authored with Chief Hearing Health Officer Dave Fabry and Director of Professional Relations Blaise Delfino: https://brnw.ch/21wTC3X.  \n \n#AudPeeps #HearingAids #MedTech",
+        "length": 521,
+        "timestamp": "2025-06-25T13:15:18.198293",
+        "post_date": "1d",
+        "reactions_count": 16,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 5,
+        "text": "Have you heard the Edge AI difference? \n \nEdge AI’s sophisticated Deep Neural Network (DNN) architecture powers Neuro Sound Technology 2.0—our best-in-class sound management system—to classify speech 30 percent more accurately* in noisy environments. Hear it for yourself: https://brnw.ch/21wTAI9. \n \n*When compared to previous technology",
+        "length": 338,
+        "timestamp": "2025-06-25T13:15:18.269772",
+        "post_date": "2d",
+        "reactions_count": 25,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 6,
+        "text": "As the most tenured current CEO in the hearing industry, Brandon Sawalich is celebrating 31 years at Starkey — a career defined by innovation, advocacy, and leadership. \n\nHis recent feature in Fortune Magazine highlights the impact of that leadership, showcasing how Starkey’s Edge AI technology is transforming hearing aids into intelligent personal assistants. \n\nBrandon’s vision continues to drive our mission forward: breaking down stigma and helping people around the world #HearBetterLiveBetter. \n\nhttps://brnw.ch/21wTz54",
+        "length": 527,
+        "timestamp": "2025-06-25T13:15:18.384116",
+        "post_date": "4d",
+        "reactions_count": 28,
+        "comments_count": 1,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 7,
+        "text": "Today is #TheLongestDay – a day of awareness for all who are working to #EndAlz. We wanted to share some information on how #HearingLoss can impact the risks of dementia and overall brain health. If you or a loved one are experiencing hearing loss, please don’t delay care. \n\n\nAlzheimer's Association® | Alzheimer's Association Minnesota-North Dakota Chapter\n#BrainHealthMonth #HearingHealth #HearingLossAwareness #HearBetterLiveBetter",
+        "length": 435,
+        "timestamp": "2025-06-25T13:15:18.476071",
+        "post_date": "4d",
+        "reactions_count": 24,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 8,
+        "text": "It’s better hearing for all. \n \nReal people, from traditional to tech-savvy, are experiencing real-life transformations—thanks to Edge AI hearing technology. Edge AI is tech that helps you hear better in all situations. \n\n#HearingAids #HearingLoss #HearBetterLiveBetter",
+        "length": 269,
+        "timestamp": "2025-06-25T13:15:18.576994",
+        "post_date": "5d",
+        "reactions_count": 20,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 9,
+        "text": "Stay tuned! DualSync, a new bimodal streaming solution between MED-EL's SONNET series and RONDO 3 audio processors and Starkey’s Edge AI and Genesis AI hearing aids, is coming soon.",
+        "length": 181,
+        "timestamp": "2025-06-25T13:15:18.657681",
+        "post_date": "6d",
+        "reactions_count": 63,
+        "comments_count": 1,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 10,
+        "text": "Easily connect to your life.\n\nOur hearing aid accessories are powered with wireless connectivity to help users fully engage with the world around them, even in the most challenging environments. \n \nLearn how: https://brnw.ch/21wTvfZ.",
+        "length": 233,
+        "timestamp": "2025-06-25T13:15:18.732063",
+        "post_date": "6d",
+        "reactions_count": 28,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      }
+    ],
+    "posts_file": "company_data\\Starkey_Hearing\\Starkey_Hearing_posts.txt"
+  },
+  "metadata": {
+    "timestamp": "2025-06-25T13:15:25.530262",
+    "processing_date": "2025-06-25",
+    "processing_time": "13:15:25"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "company_name": "spirit.com",
+  "linkedin_url": "https://hn.linkedin.com/company/spirit-airlines?trk=public_profile_topcard-current-company",
+  "hiring_status": {
+    "is_hiring": "Yes (job keywords found)",
+    "num_jobs": 0,
+    "jobs_url": "https://hn.linkedin.com/company/spirit-airlines/jobs/",
+    "source": "jobs_page_keywords",
+    "detected_text": null,
+    "keyword_count": 153,
+    "job_links": []
+  },
+  "posts": {
+    "total_posts": 0,
+    "posts_list": [],
+    "posts_file": null
+  },
+  "metadata": {
+    "timestamp": "2025-06-25T14:31:44.244515",
+    "processing_date": "2025-06-25",
+    "processing_time": "14:31:44"
+  }
+}

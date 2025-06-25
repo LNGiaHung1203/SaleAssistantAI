@@ -1,0 +1,35 @@
+{
+  "company_name": "TuSimple",
+  "linkedin_url": "https://se.linkedin.com/company/tusimple",
+  "hiring_status": {
+    "is_hiring": "No open positions",
+    "num_jobs": 0,
+    "jobs_url": "https://se.linkedin.com/company/tusimple/jobs/",
+    "source": "jobs_redirect",
+    "detected_text": null,
+    "keyword_count": null,
+    "job_links": []
+  },
+  "posts": {
+    "total_posts": 1,
+    "posts_list": [
+      {
+        "index": 1,
+        "text": "We are excited to announce that TuSimple is rebranding as CreateAI, marking our transformation into a global AI technology company focused on digital entertainment. While maintaining our autonomous driving capabilities, we're expanding our focus to revolutionize animation and video game development through proprietary AI technologies.\n\nOur integrated approach at the intersection of generative AI and digital entertainment creation provides significant long-term growth opportunities.\n\nFollow CreateAI on our new LinkedIn: https://lnkd.in/gne8EdXS, and learn more on our website http://www.iamcreate.ai",
+        "length": 604,
+        "timestamp": "2025-06-25T13:18:15.774349",
+        "post_date": "6 mån",
+        "reactions_count": 69,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      }
+    ],
+    "posts_file": "company_data\\TuSimple\\TuSimple_posts.txt"
+  },
+  "metadata": {
+    "timestamp": "2025-06-25T13:18:22.228362",
+    "processing_date": "2025-06-25",
+    "processing_time": "13:18:22"
+  }
+}

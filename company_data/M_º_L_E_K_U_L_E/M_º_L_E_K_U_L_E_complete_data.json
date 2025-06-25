@@ -1,0 +1,23 @@
+{
+  "company_name": "M º L E K U L E",
+  "linkedin_url": null,
+  "hiring_status": {
+    "is_hiring": "Unknown",
+    "num_jobs": 0,
+    "jobs_url": null,
+    "source": "unknown",
+    "detected_text": null,
+    "keyword_count": null,
+    "job_links": []
+  },
+  "posts": {
+    "total_posts": 0,
+    "posts_list": [],
+    "posts_file": null
+  },
+  "metadata": {
+    "timestamp": "2025-06-25T14:30:59.007753",
+    "processing_date": "2025-06-25",
+    "processing_time": "14:30:59"
+  }
+}

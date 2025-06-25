@@ -1,0 +1,35 @@
+{
+  "company_name": "Open Dental Software",
+  "linkedin_url": "https://www.linkedin.com/company/open-dental-software",
+  "hiring_status": {
+    "is_hiring": "No open positions",
+    "num_jobs": 0,
+    "jobs_url": "https://www.linkedin.com/company/open-dental-software/jobs/",
+    "source": "jobs_redirect",
+    "detected_text": null,
+    "keyword_count": null,
+    "job_links": []
+  },
+  "posts": {
+    "total_posts": 1,
+    "posts_list": [
+      {
+        "index": 1,
+        "text": "The global payments industry is transforming with technological advancements, evolving consumer preferences, and regulatory changes. This article, from our friends at PaySimple explores the key trends shaping the future of payments, providing a comprehensive understanding of the current landscape.\n\nhttps://bit.ly/42MlkQj",
+        "length": 322,
+        "timestamp": "2025-06-25T13:16:37.565732",
+        "post_date": "",
+        "reactions_count": 2,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      }
+    ],
+    "posts_file": "company_data\\Open_Dental_Software\\Open_Dental_Software_posts.txt"
+  },
+  "metadata": {
+    "timestamp": "2025-06-25T13:16:45.259721",
+    "processing_date": "2025-06-25",
+    "processing_time": "13:16:45"
+  }
+}

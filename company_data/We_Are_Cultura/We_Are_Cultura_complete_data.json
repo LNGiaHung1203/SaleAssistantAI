@@ -1,0 +1,134 @@
+{
+  "company_name": "We Are Cultura",
+  "linkedin_url": "https://www.linkedin.com/company/we-are-cultura",
+  "hiring_status": {
+    "is_hiring": "No open positions",
+    "num_jobs": 0,
+    "jobs_url": "https://www.linkedin.com/company/we-are-cultura/jobs/",
+    "source": "jobs_redirect",
+    "detected_text": null,
+    "keyword_count": null,
+    "job_links": []
+  },
+  "posts": {
+    "total_posts": 10,
+    "posts_list": [
+      {
+        "index": 1,
+        "text": "Our designers love collaborating with each other and the firms we partner with to bring a project to life. The samples are out, we’re all in the office and thrilled to #LoveWhereYouWork!",
+        "length": 186,
+        "timestamp": "2025-06-25T13:15:19.914778",
+        "post_date": "4d",
+        "reactions_count": 8,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 2,
+        "text": "#CulturaintheWild\n#LoveWhereYouWork",
+        "length": 35,
+        "timestamp": "2025-06-25T13:15:19.971373",
+        "post_date": "1w",
+        "reactions_count": 7,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 3,
+        "text": "#CulturaintheWild We love contributing to the continued growth and vibrance of San Diego. \n\n#LoveWhereYouWork",
+        "length": 109,
+        "timestamp": "2025-06-25T13:15:20.035965",
+        "post_date": "2w",
+        "reactions_count": 3,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 4,
+        "text": "Another #CulturaintheWild to kick off the weekend!\n#LoveWhereYouWork",
+        "length": 68,
+        "timestamp": "2025-06-25T13:15:20.273718",
+        "post_date": "3w",
+        "reactions_count": 4,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 5,
+        "text": "#CulturaintheWild \n#LoveWhereYouWork",
+        "length": 36,
+        "timestamp": "2025-06-25T13:15:20.375622",
+        "post_date": "4w",
+        "reactions_count": 3,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 6,
+        "text": "What does it take to make your space work for you? \n\nCultura believes that values-based leadership and connection are key to cultivating culture, and that a great place to start is in the office. So how do you align your space with your goals? Read more about our strategies below.\n\nhttps://lnkd.in/er9QzWCu",
+        "length": 307,
+        "timestamp": "2025-06-25T13:15:20.439667",
+        "post_date": "1mo",
+        "reactions_count": 4,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 7,
+        "text": "#CulturaintheWild\n\nWe help people #LoveWhereYouWork, wherever you work.",
+        "length": 71,
+        "timestamp": "2025-06-25T13:15:20.564780",
+        "post_date": "2mo",
+        "reactions_count": 4,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 8,
+        "text": "We're excited to announce that Denise Tamez is joining Haworth's Southwest team as Territory Sales Manager. Denise, we're so happy to have you, and we look forward to working with you moving forward!\n\nhttps://lnkd.in/evKNx74P",
+        "length": 225,
+        "timestamp": "2025-06-25T13:15:20.810527",
+        "post_date": "2mo",
+        "reactions_count": 26,
+        "comments_count": 2,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 9,
+        "text": "Amazing event that shows our strength as a community.  #lovesandiego. #lovewhereyouwork.   Cultura® so proud to a part of Downtown San Diego Partnership but also San Diego Regional EDC",
+        "length": 184,
+        "timestamp": "2025-06-25T13:15:20.987360",
+        "post_date": "3mo",
+        "reactions_count": 22,
+        "comments_count": 2,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 10,
+        "text": "We work where ever you work, don't forget that!!!",
+        "length": 49,
+        "timestamp": "2025-06-25T13:15:21.126568",
+        "post_date": "3mo",
+        "reactions_count": 1,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      }
+    ],
+    "posts_file": "company_data\\We_Are_Cultura\\We_Are_Cultura_posts.txt"
+  },
+  "metadata": {
+    "timestamp": "2025-06-25T13:15:29.515324",
+    "processing_date": "2025-06-25",
+    "processing_time": "13:15:29"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "company_name": "Doosan Group",
+  "linkedin_url": "https://vn.linkedin.com/company/doosan?trk=public_profile_experience-group-header",
+  "hiring_status": {
+    "is_hiring": "No open positions",
+    "num_jobs": 0,
+    "jobs_url": "https://vn.linkedin.com/company/doosan/jobs/",
+    "source": "jobs_redirect",
+    "detected_text": null,
+    "keyword_count": null,
+    "job_links": []
+  },
+  "posts": {
+    "total_posts": 0,
+    "posts_list": [],
+    "posts_file": null
+  },
+  "metadata": {
+    "timestamp": "2025-06-25T14:38:15.248776",
+    "processing_date": "2025-06-25",
+    "processing_time": "14:38:15"
+  }
+}

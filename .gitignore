@@ -10,7 +10,6 @@ ggsheetapikey.json
 
 # Data files
 Company list.xlsx
-company_data/
 
 # System files
 .DS_Store

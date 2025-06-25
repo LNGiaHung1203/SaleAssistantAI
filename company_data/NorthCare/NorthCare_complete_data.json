@@ -1,0 +1,134 @@
+{
+  "company_name": "NorthCare",
+  "linkedin_url": "https://mx.linkedin.com/company/northcare?trk=ppro_cprof",
+  "hiring_status": {
+    "is_hiring": "No open positions",
+    "num_jobs": 0,
+    "jobs_url": "https://mx.linkedin.com/company/northcare/jobs/",
+    "source": "jobs_redirect",
+    "detected_text": null,
+    "keyword_count": null,
+    "job_links": []
+  },
+  "posts": {
+    "total_posts": 10,
+    "posts_list": [
+      {
+        "index": 1,
+        "text": "Go Oklahoma City Thunder!⚡\n NorthCare will close clinics and operations Tuesday, June 24 to give staff the opportunity to celebrate the City’s victory at the parade. NorthCare crisis services will be open and available to serve anyone crisis. \n\n#thunder #okc #northcare",
+        "length": 269,
+        "timestamp": "2025-06-25T13:27:32.927602",
+        "post_date": "1 día",
+        "reactions_count": 1,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 2,
+        "text": "☀️✨ Happy Summer Solstice! 🌿🌼 Today we celebrate the longest day of the year filled with sunshine, joy, & abundance! Let’s gather around fire pits, dance to lively tunes, and enjoy fresh fruits & hearty feasts. May your heart be light and your spirit shine as bright as the sun! 🌞❤️ What will you do with all of this light?\n#SummerSolstice #CelebrateLight",
+        "length": 355,
+        "timestamp": "2025-06-25T13:27:32.984639",
+        "post_date": "3 días",
+        "reactions_count": 1,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 3,
+        "text": "Today, we celebrate FREEDOM!",
+        "length": 28,
+        "timestamp": "2025-06-25T13:27:33.038977",
+        "post_date": "5 días",
+        "reactions_count": 3,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 4,
+        "text": "🌈✨ Happy Autistic Pride Day! Today, we celebrate the beauty of neurodiversity and the unique strengths each autistic individual brings to our communities. Let’s spread love, understanding, and joy! 💙💜 Wear your colors proudly, share your stories, and let your light shine bright! Together, we #CelebrateAutism! 🌟🎉 #AutisticPrideDay",
+        "length": 331,
+        "timestamp": "2025-06-25T13:27:33.117137",
+        "post_date": "6 días",
+        "reactions_count": 2,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 5,
+        "text": "UNITED WAY PACESETTERS GAMES 2025! NORTHCARE WON BEST TShirt for an Agency Partners!\nWhat an exciting night!! We are grateful for our partnership with the United Way and the impact it has on our programs and services. We couldn't do it without you!",
+        "length": 248,
+        "timestamp": "2025-06-25T13:27:33.173612",
+        "post_date": "1 semana",
+        "reactions_count": 8,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 6,
+        "text": "Great News! Our Classen office is back open and ready for business after experiencing a temporary closure due to flooding! Thank you for your patience! We are excited ti serve you again!",
+        "length": 186,
+        "timestamp": "2025-06-25T13:27:33.219837",
+        "post_date": "1 semana",
+        "reactions_count": 2,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 7,
+        "text": "🌟 June is SANDS Awareness Month! 🌟\n\nAt NorthCare, we recognize the importance of raising awareness about stillbirth and neonatal death. Every year, countless families face the unimaginable pain of losing a child, and it’s crucial to support them through their grief.\n\nThis month, we encourage everyone to join us in spreading awareness, sharing stories, and providing support to those affected. Together, we can foster understanding and compassion in our communities.\n\n💙 Here are a few ways you can get involved:\n\nShare Your Story: If you or someone you know has experienced loss, sharing your story can help others feel less alone.\nEducate Yourself and Others: Learn about the causes of stillbirth and neonatal death, and share this knowledge with your friends and family.\nSupport Local Organizations: Consider donating to or volunteering with organizations that provide support to grieving families.\nLet’s come together to honor the memories of those lost and support families in their healing journey. 💖\n\n#SANDSAwarenessMonth #NorthCare #SupportFamilies #MentalHealthMatters",
+        "length": 1077,
+        "timestamp": "2025-06-25T13:27:33.266849",
+        "post_date": "2 semanas",
+        "reactions_count": 1,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 8,
+        "text": "🧔💪 June is Men's Health Month! Time to prioritize your health, gents! 🌟 Whether it’s staying active, eating better, or getting regular check-ups—small changes = BIG improvements. 💙 Let’s support each other! 🤝 #MensHealthMonth #StrongerTogether",
+        "length": 243,
+        "timestamp": "2025-06-25T13:27:33.319769",
+        "post_date": "2 semanas",
+        "reactions_count": 0,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 9,
+        "text": "Due to flooding, Classen Addiction and Recovery Services will continue at the General Pershing location through next week. UA Department will be remain at Classen Circle and continue as usual. Please call 405-858-2700 with any questions. Thank you!",
+        "length": 248,
+        "timestamp": "2025-06-25T13:27:33.366578",
+        "post_date": "2 semanas",
+        "reactions_count": 1,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      },
+      {
+        "index": 10,
+        "text": "June is PRIDE MONTH! #PrideMonth #LGBTQSupport #LGBTQAwareness #CelebrateDiversity. I don't know about you, but I think we could all use a little more kindness in our lives. \n“A long time ago I asked myself, ‘Do I want to be right, or do I want to be kind?’. I opted for kind.” ―   Jane Lynch",
+        "length": 292,
+        "timestamp": "2025-06-25T13:27:33.449632",
+        "post_date": "3 semanas Editado",
+        "reactions_count": 2,
+        "comments_count": 0,
+        "is_recent": true,
+        "selector_used": "updates__list > li.mb-1"
+      }
+    ],
+    "posts_file": "company_data\\NorthCare\\NorthCare_posts.txt"
+  },
+  "metadata": {
+    "timestamp": "2025-06-25T13:27:39.244212",
+    "processing_date": "2025-06-25",
+    "processing_time": "13:27:39"
+  }
+}
